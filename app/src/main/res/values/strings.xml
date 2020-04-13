@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">Mobile_For_Sale</string>
+    <string name="login_name">Tên đăng nhập</string>
+    <string name="login_password">Mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+    <string name="hello">Xin Chào !!</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="notification">Thông Báo</string>
+    <string name="trash_file">Hồ Sơ Nháp</string>
+    <string name="complete_files">Hồ sơ đã xử lý</string>
+    <string name="comeback_files">Hồ sơ trả lại</string>
+    <string name="add_new_files">Thêm Mới Hồ Sơ</string>
+    <string name="upload_files">Tải hồ sơ</string>
+    <string name="warning">Cảnh Báo !</string>
+    <string name="info_loan">Thông Tin Khoản Vay</string>
+    <string name="full_name">Họ và Tên</string>
+    <string name="info_custommer">Hồ Sơ Khách Hàng</string>
+    <string name="cmnd">Số CMND</string>
+    <string name="check_black_list">Check Black List</string>
+    <string name="check_duplicate">Check Duplicate</string>
+    <string name="loan_term">Kỳ hạn vay:</string>
+    <string name="kiots_id">Mã Kiosk:</string>
+    <string name="join_insurance">Tham Gia Bảo Hiểm:</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    <string name="address_same_family">Đ/c sống trùng hộ khẩu:</string>
+    <string name="suggestion_money">Số tiền đề nghị vay</string>
+    <string name="loan_number">Số tiền vay :</string>
+    <string name="view_loan_detail">Xem thông tin khoản vay</string>
+    <string name="custommer_image">Hình Ảnh Khách Hàng</string>
+    <string name="create">Khởi Tạo</string>
+    <string name="capture">Chụp ảnh</string>
+    <string name="save_draft">Lưu nháp</string>
+    <string name="find_by_date">Tìm theo ngày</string>
+    <string name="update_files">Bổ sung hồ sơ</string>
+    <string name="select_picture">Chọn ảnh</string>
+    <string name="hint_upload_photo_take">Máy Ảnh</string>
+    <string name="hint_upload_photo_pick">Thư Viện</string>
+    <string name="hint_sdcard_not_mounted">Bộ nhớ máy không đủ !</string>
+    <string name="error_place">Cần phải chọn kiot !!!</string>
+    <string name="error_cmnd">Cần phải nhập số cmnd !!!</string>
+    <string name="error_full_name">Cần nhập họ tên khách hàng !!!</string>
+    <string name="date_cmnd">Ngày cấp cmnd : </string>
+    <string name="error_cmnd_date">Cần nhập ngày cấp cmnd !!!</string>
+    <string name="Ok">Đồng ý</string>
+    <string name="Cancel">Từ chối</string>
+    <string name="confirm_create_Case">Bạn có muốn đẩy hồ sơ lên hệ thống ?</string>
+    <string name="office_address">Địa điểm kí văn kiện:</string>
+    <string name="money_between">Số tiền nhập vào phải nằm trong khoảng</string>
+    <string name="confirm_upload_image_Case">Bạn có muốn đẩy ảnh lên hệ thống ?</string>
+    <string name="create_new_case">Khởi tạo hồ sơ</string>
+    <string name="upload_image_title">Bổ sung hồ sơ</string>
+    <string name="confirm_logout">Bạn có muốn đăng xuất khỏi hệ thống ?</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="upload_files_success">Hồ sơ được đẩy lên thành công !</string>
+    <string name="upload_files_error">Hồ sơ đẩy lên thất bại. Vui lòng thử lại !</string>
+    <string name="confirm_delete_image">Bạn có muốn chỉnh sửa ảnh đã chọn?</string>
+    <string name="company">Tên công ty:</string>
+    <string name="cat_info">Kết quả phân loại CAT:</string>
+    <string name="tax_code">Mã số thuế</string>
+    <string name="check_cat">Kiểm tra phân loại CAT</string>
+    <string name="error_check_cat">Cần kiểm tra phân loại Công ty !</string>
+    <string name="month">Tháng</string>
+    <string name="vnd">VND</string>
+    <string name="error_address_office">Cần lựa chọn Kiots có văn phòng !</string>
+    <string name="list_document_not_enough">Danh sách ảnh còn thiếu !!!</string>
+    <string name="confirm_zip_file_error">Nén hồ sơ lỗi, bạn có muốn thực hiện lại?</string>
+    <string name="not_valid_cmnd">Số cmnd phải có 9 hoặc 12 kí tự !</string>
+    <string name="create_new_case_error">Khởi tạo hồ sơ bị lỗi, xin vui lòng thử lại!</string>
+    <string name="error_server">Hệ thống đang có lỗi, xin vui lòng thử lại sau !!!</string>
+    <string name="error_document_type">Sản phẩm không phù hợp, vui lòng lựa chọn lại !!!</string>
+    <string name="save_draft_success">Hồ sơ đã được lưu vào danh sách nháp !!!</string>
+    <string name="confirm_save_draft">Bạn có muốn lưu lại hồ sơ vào danh sách nháp?</string>
+    <string name="draft_files">Hồ sơ nháp</string>
+    <string name="warning_delete_Case_in_sever">Hồ sơ đã lưu trên hệ thống bạn không thể xoá đi !!!</string>
+    <string name="confirm_delete_Case">Bạn có chắc chắn xoá hồ sơ này ?</string>
+    <string name="select_kiots">Lựa chọn kiosk</string>
+    <string name="select_scheme">Lựa chọn loại sản phẩm</string>
+    <string name="select_term_loan">Chọn kỳ hạn vay</string>
+    <string name="select_title_cancel_case">Chọn lý do huỷ hồ sơ !</string>
+    <string name="error_term_loan">Bạn cần chọn kì hạn !!!</string>
+    <string name="error_scheme">Bạn cần chọn loại sản phẩm !!!</string>
+    <string name="error_money">Bạn cần điền số tiền vay !!!</string>
+    <string name="return_files">Hồ sơ trả lại</string>
+    <string name="get_return_case_error">Tải danh sách hồ sơ trả về lỗi !!!</string>
+    <string name="get_progressing_case_error">Tải danh sách hồ sơ đang xử lý lỗi !!!</string>
+    <string name="had_insurrance">Có tham gia bảo hiểm</string>
+    <string name="had_not_insurrance">Không tham gia bảo hiểm</string>
+    <string name="had_same_places">Chỗ ở hiện tại trùng hộ khẩu</string>
+    <string name="had_not_same_places">Chỗ ở không trùng hộ khẩu</string>
+    <string name="warning_must_up_image">Bạn cần bổ sung ảnh cho thư mục này !!!</string>
+    <string name="warning_not_enough_image">Bạn cần bổ sung đủ hình ảnh bắt buộc !!!</string>
+    <string name="error_tax_code">Mã số thuế không được để trống !!!</string>
+    <string name="not_cat">Không đủ điều kiện phân loại</string>
+    <string name="draft_from_server">Hồ sơ nháp trên hệ thống !!!</string>
+    <string name="draft_from_device">Hồ sơ nháp trên thiết bị !!!</string>
+    <string name="error_login">Đăng nhập thất bại, vui lòng thử lại !!!</string>
+    <string name="loanTenor">loanTenor</string>
+    <string name="loanAmountAfterInsurrance">loanAmountAfterInsurrance</string>
+    <string name="delete">Xoá Ảnh</string>
+    <string name="change">Thay thế</string>
+    <string name="date_not_real">Ngày bạn lựa chọn không chính xác, vui lòng chọn lại !!!</string>
+    <string name="internet_not_connected">Bạn vui lòng kiểm tra lại kết nối mạng của thiết bị !!!</string>
+    <string name="provinder_pagkage">com.mcredit.mobile.mobile_for_sale.provider</string>
+    <string name="confirm_delete_all_image">Bạn muốn xoá hết toàn bộ ảnh đã chọn ?</string>
+    <string name="detail_case">Chi tiết hồ sơ</string>
+    <string name="status">Trạng thái hồ sơ</string>
+    <string name="progressing_case">Hồ sơ đang xử lý</string>
+    <string name="catelogy_search">Tìm kiếm …</string>
+    <string name="confirm_cancel_Case">Bạn có muốn huỷ hồ sơ trên ?</string>
+    <string name="error_files">Danh sách hồ sơ lỗi !</string>
+    <string name="cancel_case_title">Lý do huỷ hồ sơ !</string>
+    <string name="detail">Chi tiết !</string>
+    <string name="cancel_case_success">Bạn đã huỷ hồ sơ thành công !</string>
+    <string name="cancel_case_error">Bạn đã huỷ hồ sơ thất bại, vui lòng thử lại sau !</string>
+    <string name="cancel_case">Huỷ hồ sơ</string>
+    <string name="diffrence">Khác</string>
+    <string name="difrence">Khác</string>
+    <string name="not_wanted">Khách hàng không còn nhu cầu vay</string>
+    <string name="get_dpf_case_error">Lấy danh sách hồ sơ pdf trả về bị lỗi !</string>
+    <string name="confirm_download_file_pdf">Bạn có muốn tải hồ sơ về máy ?</string>
+    <string name="is_downloading">Image is downloading ....</string>
+    <string name="sample">MFS</string>
+    <string name="download_complete">All Download completed</string>
+    <string name="Downloading">Downloading</string>
+    <string name="get_notification_case_error">Tải danh sách thông báo bị lỗi !</string>
+    <string name="uploaded_files">Danh sách hồ sơ đã tải lên !</string>
+    <string name="case_id">Case Number : </string>
+    <string name="cannot_connect_server">Không kết nối được đến hệ thống, bạn vui lòng kiểm tra lại kết nối mạng !</string>
+    <string name="send">Gửi</string>
+    <string name="case_note">Note</string>
+    <string name="note">Nhập phản hồi</string>
+    <string name="sending">Đang gửi...</string>
+    <string name="send_case_note_error">Gửi CaseNote lỗi, xin vui lòng thử lại sau !</string>
+    <string name="case_note_title">Case Notes</string>
+    <string name="error_login_wrong_user_pass">Tài khoản hoặc mật khẩu không chính xác !</string>
+    <string name="error_406_1">Device relationship with another user</string>
+    <string name="error_406_2">Device not relationship with user</string>
+    <string name="error_406_1_status">Thiết bị này đã được đăng kí với tài khoản khác !</string>
+    <string name="error_406_2_status">Tài khoản đã đăng kí với thiết bị khác !</string>
+    <string name="dev_server">DEV</string>
+    <string name="uat_server">UAT</string>
+    <string name="live_server">LIVE</string>
+    <string-array name="array_month">
+        <item>3 Tháng</item>
+        <item>6 Tháng</item>
+        <item>9 Tháng</item>
+        <item>12 Tháng</item>
+        <item>15 Tháng</item>
+        <item>18 Tháng</item>
+        <item>21 Tháng</item>
+        <item>24 Tháng</item>
+        <item>27 Tháng</item>
+        <item>30 Tháng</item>
+        <item>33 Tháng</item>
+        <item>36 Tháng</item>
+    </string-array>
+</resources>
